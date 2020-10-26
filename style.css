@@ -1,0 +1,50 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    font-family: sans-serif;
+    background-color: silver;
+}
+
+  #nav-bar
+  {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+.navbar
+{
+    padding: 0 ;
+    position: fixed;
+}
+.c2
+{
+    display: inline-block;
+    font-size: 20px;
+}
+.b1
+{
+    background-color: silver;
+}
+.top-left
+{
+  position: absolute;
+  top: 10px;
+  font-size: 40px;
+}
+.hr
+{
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: insert;
+  border-width: 1px;
+}
+
+
+
